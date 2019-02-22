@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netease.nimlib:lucene:6.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lucene-6.1.1.aar/d66fe1cb417b96d6765c43eecc31cacf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lucene-6.1.1.aar/d66fe1cb417b96d6765c43eecc31cacf/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/lucene/6.1.1/c2f8329389e201c1448f940a384b94e97116fff1/lucene-6.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
