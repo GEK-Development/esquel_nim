@@ -1,0 +1,382 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:2:1-116:12
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/30557f0adc0d79f08d07a8f7ce04383b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/7ca245d1d82ead0977c9d4570fab02a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/08fde4632088b4edb717e1ee76441aad/AndroidManifest.xml:2:1-11:12
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:2:1-63:12
+MERGED from [com.netease.nimlib:nrtc:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/nrtc-6.1.1.aar/9afd199b16c06012d742643261c1befa/AndroidManifest.xml:2:1-11:12
+MERGED from [com.netease.nimlib:avchat:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/avchat-6.1.1.aar/db5ad0aef3e6188f28bf8dc144933523/AndroidManifest.xml:2:1-11:12
+MERGED from [com.netease.nimlib:chatroom:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/chatroom-6.1.1.aar/42eca1591914bdd566d7170cd85a3fe9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.netease.nimlib:rts:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/rts-6.1.1.aar/27a0cf2551be9d39c32566dfab8a9f71/AndroidManifest.xml:2:1-11:12
+MERGED from [com.netease.nimlib:lucene:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/lucene-6.1.1.aar/d66fe1cb417b96d6765c43eecc31cacf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.netease.nimlib:push:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/push-6.1.1.aar/dff0897627604db1ec7356a71870ef59/AndroidManifest.xml:2:1-122:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/652a828921fcc92351d559d8ea8456da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/a8c7ae03d39b1a6d7c57c496d846ef2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/921097ab1495a893f4172f4eac7624c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/3740df210056a70e7928b3a78638c977/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/ecceada0312ad9dc37067e7a0d1981c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/a769b7e8738e689eba9fbf5dd073ebeb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/3913895f796b2ee537599c3c3690ec12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/beb1fb3bcb1c6cf93aeb067a01aa371f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/559c43be0633e4f238469d48403c33e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/301b38fa4ce2c455779d284d4bfcb0de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/ffef3e207bd2d3e9729a79f2d574a9ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/f94f16d4b25f0ca3941a90e084b384be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/317d60b60b5499e48c1cbfe9c7990d00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/4d0180d76afe3fb1bbe084c43b125fb2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f62802602b7ff0f971ec1fdb7aee4c21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/29fa55563a3c94cf44b46dafe5cadbcc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/c851e3740ae1945d07766a5feac39bc4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/84ba374b9cee3d3d5c2bd7cddbe54f46/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/d17f5dde8afe6ef096b2affc8e5d50da/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/eebca9c80476a8d4833073bab4c6f024/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/81740305629ffba3f891a112e9d927fc/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/a6f77921a9b7a14f1c2d99ead1dcbba5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/2f7941d73bc6cf45cfee96b8a722dba7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/0ee900c92b1936de45613fd3860e94df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/25a29e5955698a2f1c6f039810b16be6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/0321c949a230330754a3f8778ee58a84/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/94214398c80b7e295d5cfecdb3e9668b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fe21788219295f227bf215e8c9e72780/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0777944bb7311eb441cfcf371a02e8a0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:2:1-116:12
+	package
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:2:1-116:12
+		INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:2:1-116:12
+		INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:14:5-67
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:15:5-79
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:9:5-76
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:16:5-76
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:12:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:13:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:16:5-79
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:23:5-80
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:17:5-80
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:24:5-81
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:20:5-77
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:20:22-74
+uses-permission#android.permission.CAMERA
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:23:5-64
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:23:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:24:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:25:22-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:28:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:29:5-74
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:29:22-71
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:30:22-77
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:31:5-74
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:31:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:32:5-68
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:32:22-65
+uses-feature#android.hardware.camera
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:33:5-60
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:33:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:34:5-70
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:34:19-67
+uses-feature#0x00020000
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:35:5-78
+	android:glEsVersion
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:35:19-51
+	android:required
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:35:52-75
+permission#io.ultrarich.esquel.permission.RECEIVE_MSG
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:38:5-40:47
+	android:protectionLevel
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:40:9-44
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:39:9-66
+uses-permission#io.ultrarich.esquel.permission.RECEIVE_MSG
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:43:5-82
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:43:22-79
+application
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:46:5-115:19
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/30557f0adc0d79f08d07a8f7ce04383b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/30557f0adc0d79f08d07a8f7ce04383b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/08fde4632088b4edb717e1ee76441aad/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/08fde4632088b4edb717e1ee76441aad/AndroidManifest.xml:9:5-20
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:26:5-61:19
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:26:5-61:19
+MERGED from [com.netease.nimlib:push:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/push-6.1.1.aar/dff0897627604db1ec7356a71870ef59/AndroidManifest.xml:11:5-120:19
+MERGED from [com.netease.nimlib:push:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/push-6.1.1.aar/dff0897627604db1ec7356a71870ef59/AndroidManifest.xml:11:5-120:19
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/84ba374b9cee3d3d5c2bd7cddbe54f46/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/84ba374b9cee3d3d5c2bd7cddbe54f46/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/81740305629ffba3f891a112e9d927fc/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/81740305629ffba3f891a112e9d927fc/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/84ba374b9cee3d3d5c2bd7cddbe54f46/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:51:9-35
+	android:label
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:49:9-45
+	android:roundIcon
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:50:9-54
+	android:icon
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:48:9-43
+	android:allowBackup
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:47:9-35
+	android:theme
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:53:9-44
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:52:9-73
+activity#io.ultrarich.esquel.MainActivity
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:54:9-60:20
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:54:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:58:27-74
+meta-data#com.netease.nim.appKey
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:64:9-65:64
+	android:value
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:65:13-61
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:64:20-57
+service#com.netease.nimlib.service.NimService
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:68:9-70:38
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:29:9-31:39
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:29:9-31:39
+	android:process
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:70:13-36
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:69:13-65
+service#com.netease.nimlib.service.NimService$Aux
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:73:9-75:38
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:34:9-36:39
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:34:9-36:39
+	android:process
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:75:13-36
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:74:13-69
+service#com.netease.nimlib.job.NIMJobService
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:78:9-82:38
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:39:9-43:39
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:39:9-43:39
+	android:process
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:82:13-36
+	android:exported
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:80:13-36
+	android:permission
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:81:13-69
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:79:13-64
+receiver#com.netease.nimlib.service.NimReceiver
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:92:9-99:20
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:46:9-54:20
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:46:9-54:20
+	android:process
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:93:13-36
+	android:exported
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:94:13-37
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:92:19-72
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:96:17-78
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:96:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:97:17-78
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:97:25-76
+receiver#com.netease.nimlib.service.ResponseReceiver
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:102:9-79
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:57:9-80
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:57:9-80
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:102:19-77
+service#com.netease.nimlib.service.ResponseService
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:105:9-77
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:60:9-78
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:60:9-78
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:105:18-75
+provider#com.netease.nimlib.ipc.NIMContentProvider
+ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:109:9-113:39
+	android:process
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:113:13-36
+	android:authorities
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:111:13-68
+	android:exported
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:112:13-37
+	android:name
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml:110:13-69
+uses-sdk
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/30557f0adc0d79f08d07a8f7ce04383b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/30557f0adc0d79f08d07a8f7ce04383b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/7ca245d1d82ead0977c9d4570fab02a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/7ca245d1d82ead0977c9d4570fab02a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/08fde4632088b4edb717e1ee76441aad/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/08fde4632088b4edb717e1ee76441aad/AndroidManifest.xml:7:5-43
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:8:5-11:91
+MERGED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:8:5-11:91
+MERGED from [com.netease.nimlib:nrtc:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/nrtc-6.1.1.aar/9afd199b16c06012d742643261c1befa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:nrtc:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/nrtc-6.1.1.aar/9afd199b16c06012d742643261c1befa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:avchat:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/avchat-6.1.1.aar/db5ad0aef3e6188f28bf8dc144933523/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:avchat:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/avchat-6.1.1.aar/db5ad0aef3e6188f28bf8dc144933523/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:chatroom:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/chatroom-6.1.1.aar/42eca1591914bdd566d7170cd85a3fe9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:chatroom:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/chatroom-6.1.1.aar/42eca1591914bdd566d7170cd85a3fe9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:rts:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/rts-6.1.1.aar/27a0cf2551be9d39c32566dfab8a9f71/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:rts:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/rts-6.1.1.aar/27a0cf2551be9d39c32566dfab8a9f71/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:lucene:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/lucene-6.1.1.aar/d66fe1cb417b96d6765c43eecc31cacf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:lucene:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/lucene-6.1.1.aar/d66fe1cb417b96d6765c43eecc31cacf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:push:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/push-6.1.1.aar/dff0897627604db1ec7356a71870ef59/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:push:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/push-6.1.1.aar/dff0897627604db1ec7356a71870ef59/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/652a828921fcc92351d559d8ea8456da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/652a828921fcc92351d559d8ea8456da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/a8c7ae03d39b1a6d7c57c496d846ef2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/a8c7ae03d39b1a6d7c57c496d846ef2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/921097ab1495a893f4172f4eac7624c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/921097ab1495a893f4172f4eac7624c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/3740df210056a70e7928b3a78638c977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/3740df210056a70e7928b3a78638c977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/ecceada0312ad9dc37067e7a0d1981c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/ecceada0312ad9dc37067e7a0d1981c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/a769b7e8738e689eba9fbf5dd073ebeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/a769b7e8738e689eba9fbf5dd073ebeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/3913895f796b2ee537599c3c3690ec12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/3913895f796b2ee537599c3c3690ec12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/beb1fb3bcb1c6cf93aeb067a01aa371f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/beb1fb3bcb1c6cf93aeb067a01aa371f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/559c43be0633e4f238469d48403c33e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/559c43be0633e4f238469d48403c33e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/301b38fa4ce2c455779d284d4bfcb0de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/301b38fa4ce2c455779d284d4bfcb0de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/ffef3e207bd2d3e9729a79f2d574a9ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/ffef3e207bd2d3e9729a79f2d574a9ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/f94f16d4b25f0ca3941a90e084b384be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/f94f16d4b25f0ca3941a90e084b384be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/317d60b60b5499e48c1cbfe9c7990d00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/317d60b60b5499e48c1cbfe9c7990d00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/4d0180d76afe3fb1bbe084c43b125fb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/4d0180d76afe3fb1bbe084c43b125fb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f62802602b7ff0f971ec1fdb7aee4c21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f62802602b7ff0f971ec1fdb7aee4c21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/29fa55563a3c94cf44b46dafe5cadbcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/29fa55563a3c94cf44b46dafe5cadbcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/c851e3740ae1945d07766a5feac39bc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/c851e3740ae1945d07766a5feac39bc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/84ba374b9cee3d3d5c2bd7cddbe54f46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/84ba374b9cee3d3d5c2bd7cddbe54f46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/d17f5dde8afe6ef096b2affc8e5d50da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/d17f5dde8afe6ef096b2affc8e5d50da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/eebca9c80476a8d4833073bab4c6f024/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/eebca9c80476a8d4833073bab4c6f024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/81740305629ffba3f891a112e9d927fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/81740305629ffba3f891a112e9d927fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/a6f77921a9b7a14f1c2d99ead1dcbba5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/a6f77921a9b7a14f1c2d99ead1dcbba5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/2f7941d73bc6cf45cfee96b8a722dba7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/2f7941d73bc6cf45cfee96b8a722dba7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/0ee900c92b1936de45613fd3860e94df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/0ee900c92b1936de45613fd3860e94df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/25a29e5955698a2f1c6f039810b16be6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/25a29e5955698a2f1c6f039810b16be6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/0321c949a230330754a3f8778ee58a84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/0321c949a230330754a3f8778ee58a84/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/94214398c80b7e295d5cfecdb3e9668b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/94214398c80b7e295d5cfecdb3e9668b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fe21788219295f227bf215e8c9e72780/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fe21788219295f227bf215e8c9e72780/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0777944bb7311eb441cfcf371a02e8a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0777944bb7311eb441cfcf371a02e8a0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:11:9-88
+	android:targetSdkVersion
+		INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bobzheng/Documents/Code/3party/esquel_nim/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from [com.netease.nimlib:basesdk:6.1.1] /Users/bobzheng/.gradle/caches/transforms-1/files-1.1/basesdk-6.1.1.aar/d98f8b46a05ab63f46a0890f6a03f232/AndroidManifest.xml:20:22-65
